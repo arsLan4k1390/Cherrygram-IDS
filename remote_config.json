@@ -13,7 +13,7 @@
   "allow_use_safesurf": true,
   "safe_surf_URL": "https://t.me/safe_surfbot?start=cherry",
 
-  "allow_use_safepay": true,
+  "allow_use_safepay": false,
   "safe_pay_URL": "https://t.me/safepaycard_bot?start=cherry",
 
   "record_oom_as_nf": true,
