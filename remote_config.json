@@ -11,10 +11,10 @@
   "safe_stars_URL_RU": "https://safe-stars.com/ru/?partner=cherrygram",
 
   "allow_use_safesurf": true,
-  "safe_surf_URL": "https://t.me/safe_surfbot?start=cherry",
+  "safe_surf_URL": "https://t.me/safe_surfbot?start=cherrygram",
 
   "allow_use_safepay": false,
-  "safe_pay_URL": "https://t.me/safepaycard_bot?start=cherry",
+  "safe_pay_URL": "https://t.me/safepaycard_bot?start=cherrygram",
 
   "record_oom_as_nf": true,
 
