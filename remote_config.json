@@ -1,7 +1,7 @@
 {
   "show_ads_screen_in_settings": true,
   "show_ads_in_play_store_builds": true,
-  "always_show_adsgram_in_chats": true,
+  "always_show_adsgram_in_chats": false,
 
   "videomessages_resolution": 512,
   "min_cherry_version": "11.0.0",
