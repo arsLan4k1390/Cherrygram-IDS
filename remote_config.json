@@ -1,7 +1,7 @@
 {
   "show_ads_randomly": false,
   "show_ads_screen_in_settings": true,
-  "show_ads_in_play_store_builds": true,
+  "show_ads_in_play_store_builds": false,
   "always_show_adsgram_in_chats": false,
 
   "use_braille_spoiler": false,
