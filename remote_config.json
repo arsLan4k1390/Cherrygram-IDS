@@ -6,7 +6,7 @@
 
   "use_braille_spoiler": false,
   "videomessages_resolution": 512,
-  "min_cherry_version": "11.0.0",
+  "min_cherry_version": "11.2.0",
 
   "humo_card_number": "9860100128256904",
   "tbank_card_number": "9860100128256904",
