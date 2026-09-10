@@ -15,7 +15,7 @@
   "safe_stars_URL": "https://safe-stars.com/?partner=cherrygram",
   "safe_stars_URL_RU": "https://safe-stars.com/ru/?partner=cherrygram",
 
-  "allow_use_safesurf": true,
+  "allow_use_safesurf": false,
   "safe_surf_URL": "https://t.me/safe_surfbot?start=cherrygram",
 
   "allow_use_safepay": false,
