@@ -6,8 +6,8 @@
 
   "use_braille_spoiler": false,
   "videomessages_resolution": 512,
-  "min_cherry_version": "11.2.0",
-  "min_cherry_version_gp": "11.2.0",
+  "min_cherry_version": "11.3.0",
+  "min_cherry_version_gp": "11.3.0",
 
   "humo_card_number": "9860100128256904",
   "tbank_card_number": "9860100128256904",
@@ -19,7 +19,7 @@
   "allow_use_safesurf": false,
   "safe_surf_URL": "https://t.me/safe_surfbot?start=cherrygram",
 
-  "allow_use_safepay": false,
+  "allow_use_safepay": true,
   "safe_pay_URL": "https://t.me/safepaycard_bot?start=cherrygram",
 
   "record_oom_as_nf": true,
