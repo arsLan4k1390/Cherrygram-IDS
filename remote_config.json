@@ -21,6 +21,9 @@
 
   "allow_use_safepay": true,
   "safe_pay_URL": "https://t.me/safepaycard_bot?start=cherrygram",
+  
+  "allow_use_edify": true,
+  "edify_url": "https://t.me/edify_reels_bot?start=cherrygram",
 
   "record_oom_as_nf": true,
   "use_cg_oom_handler": true,
