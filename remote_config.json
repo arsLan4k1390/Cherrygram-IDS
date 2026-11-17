@@ -29,8 +29,8 @@
   "use_cg_oom_handler": true,
   "allow_commands_listener": true,
 
-  "show_proxy_in_settings": false,
-  "proxy_link_in_settings": "https://t.me/proxy?server=45.67.131.215&port=443&secret=ee0123456789abcdef0123456789abcdef7777772e636c6f7564666c6172652e636f6d",
+  "show_proxy_in_settings": true,
+  "proxy_link_in_settings": "https://t.me/proxy?server=31.77.16.147&port=8553&secret=7d5339e82568dae39bc804c44872063b",
 
   "show_deleted_gifts": false,
   "deleted_gifts_config_url": "https://gitlab.com/arsLan4k1390/Cherrygram-IDS/-/raw/main/gift_list.json?inline=false",
