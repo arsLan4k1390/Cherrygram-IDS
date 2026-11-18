@@ -30,7 +30,7 @@
   "allow_commands_listener": true,
 
   "show_proxy_in_settings": true,
-  "proxy_link_in_settings": "https://t.me/proxy?server=31.77.16.147&port=8553&secret=7d5339e82568dae39bc804c44872063b",
+  "proxy_link_in_settings": "tg://proxy?server=mobile.mishutkin.click&port=443&secret=eed052c02f3e13fa55568670fa5df149086d6f62696c652e6d69736875746b696e2e636c69636b",
 
   "show_deleted_gifts": false,
   "deleted_gifts_config_url": "https://gitlab.com/arsLan4k1390/Cherrygram-IDS/-/raw/main/gift_list.json?inline=false",
