@@ -7,7 +7,7 @@
   "use_braille_spoiler": false,
   "videomessages_resolution": 512,
   "min_cherry_version": "11.4.0",
-  "min_cherry_version_gp": "11.5.0",
+  "min_cherry_version_gp": "11.4.0",
 
   "humo_card_number": "9860100128256904",
   "tbank_card_number": "9860100128256904",
@@ -30,7 +30,7 @@
   "allow_commands_listener": true,
 
   "show_proxy_in_settings": true,
-  "proxy_link_in_settings": "https://t.me/proxy?server=tg6.turboass.live&port=443&secret=ee7dc49d6324c1013b0f53382ef12cc1107467362e747572626f6173732e6c697665",
+  "proxy_link_in_settings": "https://t.me/proxy?server=top.proxynet.tech&port=443&secret=ee59d1ef95ab03cfeaebb18b0a529ad5e6746f702e70726f78796e65742e74656368",
 
   "show_deleted_gifts": false,
   "deleted_gifts_config_url": "https://gitlab.com/arsLan4k1390/Cherrygram-IDS/-/raw/main/gift_list.json?inline=false",
